@@ -47,7 +47,7 @@ body {
     text-decoration: none;
 }
 .container__aviso {
-    font-size: 12px;
+    font-size: 62px;
     color: var(--cinza-secundario);
 }
 .container__imagem {
@@ -71,4 +71,7 @@ body {
 }
 .descricao__texto {
     color: var(--cinza-secundario);
+}
+h1{ font-size: 62px;
+
 }
